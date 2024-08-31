@@ -8,7 +8,7 @@ Hello! I'm Mohamed Geweida, a passionate Computer Science Student. I love explor
 - 🌱 Learning: Front-End Development
 - 👯 Open to collaborating on: Desktop Applications, Front-End Applications, UI | UX Projects, Python Projects
 - 💬 Ask me about: Python, Web Development, UI | UX Designing
-- 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/mohamed-geweida/)
+- 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/mohamed-geweida/) - [Instgram](https://www.instagram.com/mohamed_geweida/)
 
 ## My Projects
 
@@ -42,6 +42,6 @@ I’m always excited to contribute to open-source projects and collaborate with 
 
 ## Get in Touch
 
-I'm always open to connecting with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out to me via [Linked-In](https://www.linkedin.com/in/mohamed-geweida/).
+I'm always open to connecting with fellow developers, collaborators, and tech enthusiasts. Feel free to reach out to me via [Linked-In](https://www.linkedin.com/in/mohamed-geweida/) or [Instgram](https://www.instagram.com/mohamed_geweida/).
 
 Thank you for visiting my GitHub profile! Don't forget to check out my repositories and give a ⭐ if you find something interesting!
