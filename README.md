@@ -6,7 +6,7 @@ Hello! I'm Mohamed Geweida, a passionate Computer Science Student. I love explor
 
 - 💼 Currently working on: Front-End Websites
 - 🌱 Learning: Front-End Development
-- 👯 Open to collaborating on: Desktop Applications, Front-End Applications, UI | UX Projects, Python Projects
+- 👫🏼 Open to collaborating on: Desktop Applications, Front-End Applications, UI | UX Projects, Python Projects
 - 💬 Ask me about: Python, Web Development, UI | UX Designing
 - 📫 How to reach me: [Linked-In](https://www.linkedin.com/in/mohamed-geweida/) - [Instgram](https://www.instagram.com/mohamed_geweida/)
 
