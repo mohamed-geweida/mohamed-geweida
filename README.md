@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">👋 Salam!</h1>
 
 ###
@@ -43,9 +41,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-geweida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="148" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-geweida&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mohamed-geweida/mohamed-geweida/output/snake.svg" alt="Snake animation" />
 
 ###
