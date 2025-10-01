@@ -4,7 +4,6 @@
 
 ###
 
-<br clear="both">
 
 <h4 align="center">Hi, I'm Mohamed Geweida  <br>Computer Science student passionate about AI, Data Science, and Software Development</h4>
 
